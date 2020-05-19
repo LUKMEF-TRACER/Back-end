@@ -1,0 +1,31 @@
+.fd-list {
+    border: 2px grey groove;
+    margin: 5px;
+    font-weight: bolder;
+    padding: 5px;
+    font-variant: ;
+    display: flex;
+    justify-content: space-between;
+}
+
+.overflow {
+    overflow: scroll;
+    padding: 15px 0;
+    background-color: #f2f2f2;
+    margin: 10px 0;
+    border-radius: 2%;
+}
+
+#food-item {
+    height: 120px;
+}
+
+#result-items {
+    display: none;
+    /*height: 500px;*/
+}
+
+canvas {
+    display: none;
+    width: 100%;
+}
