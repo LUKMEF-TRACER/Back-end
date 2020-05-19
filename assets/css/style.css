@@ -1,0 +1,27 @@
+.front-page {
+    height: 100vh;
+    background-color: aquamarine;
+    color: white;
+    text-shadow: 2px 2px 3px #000;
+}
+
+.cc {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+nav.nutri-nav {
+    font-weight: bold;
+    background-color: #26dc6c;
+    text-shadow: 1px 1px 2px #000;
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+}
+
+nav.nutri-nav a {
+    margin: 0 25px;
+    color: #fff;
+	font-size: 27px;
+}
